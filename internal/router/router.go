@@ -7,7 +7,7 @@ import (
 )
 
 // MVC pattern
-// Router: Controller -> Service -> Repo
+// Router: Controller -> Service -> Repo -> models -> DB
 func NewRouter() *g.Engine {
 	r := g.Default()
 
