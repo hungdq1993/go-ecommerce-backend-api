@@ -1,2 +1,2 @@
-{"level":"INFO","ts":"2024-06-25T13:55:29.565+0700","caller":"cli/main.log.go:32","msg":"Hung Test + 1111"}
-{"level":"ERROR","ts":"2024-06-25T13:55:29.566+0700","caller":"cli/main.log.go:33","msg":"Hung Test + 4"}
+{"level":"INFO","ts":"2024-06-25T14:13:05.877+0700","caller":"cli/main.log.go:32","msg":"Hung Test + 1111"}
+{"level":"ERROR","ts":"2024-06-25T14:13:05.879+0700","caller":"cli/main.log.go:33","msg":"Hung Test + 4"}
